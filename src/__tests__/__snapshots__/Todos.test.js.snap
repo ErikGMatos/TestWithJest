@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Todos Component should render correctly 1`] = `
+"<ul className=\\"todos\\">
+  <li>
+    fazer cafe
+  </li>
+  <li>
+    fazer codigo
+  </li>
+  <li>
+    fazer live
+  </li>
+</ul>"
+`;
